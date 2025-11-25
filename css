@@ -10,7 +10,13 @@ h1 {
   color: maroon;
   marhis is a paragraph.</p>
 add some extra code 
-
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.center {
+  text-align: center;
+  color: red
 
 /body>
 <!DOCTYPE html>
