@@ -19,7 +19,14 @@ add some extra code
 <link rel="stylesheet" href="mystyle.css">
 </head>
 <body>
-
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#para1 {
+  text-align: center;
+  color: red;
+}
 <h1>This is a heading</h1>
 <p>This is a paragraph.</p>
 
